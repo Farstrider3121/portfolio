@@ -99,3 +99,12 @@ main{
     padding: 10px;
     text-align: center;
 }
+
+footer{
+    background-color: var(--dark-shades);
+    width: 100%;
+    text-align: center;
+}
+footer p{
+    color: var(--light-shades);
+}
