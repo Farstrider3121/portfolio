@@ -82,3 +82,20 @@ main{
     object-fit: contain;
     border-radius: 20px;
 }
+
+#work {
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.workLink{
+    width: 250px;
+    object-fit: contain;
+    border: var(--dark-shades) 4px solid;
+}
+
+.piece{
+    padding: 10px;
+    text-align: center;
+}
